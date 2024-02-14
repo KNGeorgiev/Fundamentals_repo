@@ -10,4 +10,3 @@ for i in range(len(word1)):
 
     result = word2[:i + 1] + word1[i + 1:]
     print(result)
-    
