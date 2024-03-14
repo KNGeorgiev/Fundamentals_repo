@@ -12,4 +12,3 @@ for i in range(1, count + 1):
     l2.append(0)
 
 print(l2)
-
