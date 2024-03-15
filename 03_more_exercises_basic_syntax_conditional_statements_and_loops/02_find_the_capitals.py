@@ -10,3 +10,4 @@ for char in word_list:
     counter += 1
 
 print(list_index)
+
